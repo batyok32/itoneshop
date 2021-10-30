@@ -1,0 +1,22 @@
+{
+	"addCart": "Add to Cart",
+	"addComment": "Add a Comment",
+	"addComment_desc": "Please write something about product",
+	"availble": "Available",
+	"Body": "Body",
+	"bread_store": "Store",
+	"commentError": "Publish Error",
+	"Comments": "Comments",
+	"createdComment": "Created",
+	"description": "Description",
+	"loadMore": "Load More",
+	"login": "Login",
+	"login_to_addComment": "Login to add a comment",
+	"new": "New",
+	"noComments": "No Comments",
+	"publishComment": "Publish Comment",
+	"rec_for_you": "Recommended For You",
+	"sold": "Sold",
+	"Sizes": "Sizes",
+	"Sorry, product is not available": "Sorry, product is not available"
+}

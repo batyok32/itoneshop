@@ -1,0 +1,12 @@
+{
+	"You must be logged in to post comment!": "Вы должны войти, чтобы отправлять комментарии!",
+	"You must be logged in to delete order!": "Вы должны авторизоваться, чтобы удалить заказ!",
+	"Something went wrong": "Упс, что то пошло не так!",
+	"No such a user or invalid password": "Нету такого пользовотеля или неверный пароль!",
+	"User already exists": "Пользователь уже существует",
+	"Please, shop before order!": "Пожалуйста, делайте покупки перед заказом!",
+	"Please fill fields correctly!": "Пожалуйста, заполните поля правильно!",
+	"Not Correct Coupon Code!": "Неправильный код купона!",
+	"Please write something!": "Напишите, пожалуйста, что-нибудь!",
+	"No products!": "Нет товаров!"
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Loader/PageLoader.css"],"names":[],"mappings":"AAAA,YACC,iBAAkB,CAClB,OAAQ,CACR,QAAS,CACT,sCAAgC,CAAhC,8BAAgC,CAChC,YACD","file":"main.2f3c39eb.chunk.css","sourcesContent":[".loading-bg {\n\tposition: absolute;\n\ttop: 50%;\n\tleft: 50%;\n\ttransform: translate(-50%, -50%);\n\tdisplay: flex;\n}\n"]}

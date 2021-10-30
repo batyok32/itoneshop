@@ -1,0 +1,22 @@
+{
+	"addCart": "Добавить в корзину",
+	"addComment": "Добавить комментарий",
+	"addComment_desc": "Что вы думаете о продукте",
+	"availble": "Имеется в наличии",
+	"Body": "Текст",
+	"bread_store": "Магазин",
+	"commentError": "Ошибка публикации",
+	"Comments": "Комментарии",
+	"createdComment": "Коментарий опубликовался",
+	"description": "Описание",
+	"loadMore": "Дальше",
+	"login": "Авторизоваться",
+	"login_to_addComment": "Войдите чтобы добавить комментарий",
+	"new": "Новый",
+	"noComments": "Комментариев нету",
+	"publishComment": "Публиковать",
+	"rec_for_you": "Рекомендуется для вас",
+	"sold": "Проданно",
+	"Sizes": "Размеры",
+	"Sorry, product is not available": "Извините, товар недоступен!"
+}
